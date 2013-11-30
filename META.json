@@ -44,6 +44,7 @@
          "requires" : {
             "HTTP::Status" : "0",
             "Nephia" : "0.80",
+            "Nephia::Plugin::View::MicroTemplate" : "0",
             "perl" : "5.008005"
          }
       },
